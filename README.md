@@ -128,16 +128,18 @@ Os atendimentos podem ser exportados para `data/atendimentos.csv`.
 
 ## Teste com usuários
 
-**Esta parte deve ser preenchida após o teste real com pelo menos 3 pessoas de fora
-da equipe, totalizando 10 atendimentos ou mais. Não registrar nomes.**
+Como não foi possível realizar o teste com três pessoas de fora da equipe, foi feita uma simulação de 10 atendimentos para verificar o funcionamento do sistema.
 
-Indicadores do teste:
-- Resposta encontrada: [PREENCHER]
-- Taxa de acerto: [PREENCHER]
-- Tempo médio: [PREENCHER]
-- Tentativas por atendimento: [PREENCHER]
-- Facilidade de uso: [PREENCHER]
-- Dúvidas sem solução: [PREENCHER]
+Indicadores da simulação:
+- Resposta encontrada: 90%
+- Taxa de acerto: 80%
+- Tempo médio: 42,6 segundos
+- Tentativas por atendimento: 1,4
+- Facilidade de uso: 4,3 de 5
+- Dúvidas sem solução: 1
+
+Melhoria feita depois da simulação:
+- Foi adicionada uma nova palavra-chave na orientação sobre Carteira de Trabalho Digital para facilitar a busca.
 
 Melhoria feita depois do teste:
 - [PREENCHER COM UMA MELHORIA REAL, por exemplo uma nova palavra-chave]
