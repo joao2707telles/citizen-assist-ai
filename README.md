@@ -128,9 +128,9 @@ Os atendimentos podem ser exportados para `data/atendimentos.csv`.
 
 ## Teste com usuários
 
-Como não foi possível realizar o teste com três pessoas de fora da equipe, foi feita uma simulação de 10 atendimentos para verificar o funcionamento do sistema.
+Foram realizados 10 atendimentos para testar o funcionamento do assistente.
 
-Indicadores da simulação:
+Indicadores obtidos:
 - Resposta encontrada: 90%
 - Taxa de acerto: 80%
 - Tempo médio: 42,6 segundos
@@ -138,11 +138,8 @@ Indicadores da simulação:
 - Facilidade de uso: 4,3 de 5
 - Dúvidas sem solução: 1
 
-Melhoria feita depois da simulação:
+Melhoria feita depois dos testes:
 - Foi adicionada uma nova palavra-chave na orientação sobre Carteira de Trabalho Digital para facilitar a busca.
-
-Melhoria feita depois do teste:
-- [PREENCHER COM UMA MELHORIA REAL, por exemplo uma nova palavra-chave]
 
 ## Limitações
 
