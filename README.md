@@ -155,4 +155,4 @@ externos.
 ## Vídeo
 
 Link do vídeo técnico no YouTube:
-[PREENCHER]
+https://youtu.be/EQIip9ABiQQ
