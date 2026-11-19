@@ -155,4 +155,4 @@ externos.
 ## Vídeo
 
 Link do vídeo técnico no YouTube:
-https://youtu.be/EQIip9ABiQQ
+https://youtu.be/GCOxu5PW8Gs
